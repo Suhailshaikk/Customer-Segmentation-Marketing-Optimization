@@ -1,4 +1,4 @@
-# Mall Customer Segmentation Analysis
+# Customer Segmentation & Marketing Optimization
 
 ## Objective
 To segment customers into distinct groups based on their demographic and spending patterns, enabling targeted marketing strategies.
